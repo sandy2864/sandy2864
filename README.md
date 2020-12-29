@@ -4,7 +4,7 @@
 ### My expertise is in the area of responsive & dynamic web design. With every new line of code I strive to make the web unimaginable. 
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to write
+- ⚡ Fun fact: I love to write [<img align="left" alt="heartfetch | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
