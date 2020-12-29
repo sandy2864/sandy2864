@@ -64,6 +64,6 @@
 </a>
 <div>
 
-### Show some ❤️ by subscribing my channel![youtube]
+### Show some ❤️ by subscribing my channel [<img align="left" alt="freeCodeHub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 </div>
