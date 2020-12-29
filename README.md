@@ -53,3 +53,13 @@
 [instagram]: https://instagram.com/sandy.io
 [linkedin]: https://www.linkedin.com/in/sandeep-kumar-291226196/
 
+</a>
+<a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandy2864&repo=VelocityX&theme=light" />
+</a
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
