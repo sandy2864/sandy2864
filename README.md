@@ -1,8 +1,8 @@
-### Hi there, I'm Sandeep - aka [Sandy][website] 👋
+### Hey there, I'm Sandeep - aka [Sandy][website] 👋
+### I'm a computer science engineering student. My expertise is in the area of responsive & dynamic web design. With every new line of code I try to make the web unimaginable. 
 
 
-
-## I'm a Programmer,Developer, and Youtuber!!
+## I'm a Competitive Coder,Developer, and Youtuber!!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to write
@@ -42,6 +42,8 @@
 <!-- YOUTUBE:START -->
 - [How To Make My Own Virtual Assistant |Python [2020] [Hindi]](https://youtu.be/7Qx4-1oS2qUo)
 - [How to Host a Website On Github |How To Fix 404 Error [Hindi] [2020]](https://youtu.be/WyOEQBgverg)
+- [How To Spam Google Meet |How To Spam WhatsApp |How To Spam Youtube Live Chat [Hindi][2020]](https://youtu.be/4DVF3lFYgs8)
+- [How To Hack Any Password in 5 Minutes | password guessing | CUPP  |Vpn| google Translate [2020]](https://youtu.be/is318WK7aM0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/freeCodeHub)
@@ -62,6 +64,6 @@
 </a>
 <div>
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by subscribing my channel![youtube]
 
 </div>
