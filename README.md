@@ -54,10 +54,19 @@
 [linkedin]: https://www.linkedin.com/in/sandeep-kumar-291226196/
 
 </a>
+<a href="https://github.com/sandy2864">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy2864&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/sandy2864">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandy2864&show_icons=true&theme=light&line_height=27" alt="Sandeep's github stats"/>
+</a>
+<a href="https://github.com/iampawan/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandy2864&repo=FlutterExampleApps&theme=light" />
+
+</a>
 <a href="https://github.com/iampawan/VelocityX">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandy2864&repo=VelocityX&theme=light" />
-</a
-
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
