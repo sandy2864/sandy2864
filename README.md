@@ -1,7 +1,7 @@
 # Hey there, I'm Sandeep - aka [Sandy][website] 👋
 
 ## I'm a Competitive Coder,Developer, and Youtuber!!
-### My expertise is in the area of responsive & dynamic web design. With every new line of code I try to make the web unimaginable. 
+### My expertise is in the area of responsive & dynamic web design. With every new line of code I strive to make the web unimaginable. 
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to write
